@@ -91,3 +91,15 @@ requirements.txt
 ## License
 
 MIT — use for any personal or commercial project.
+
+## Get the Premium Version
+
+**$24** — FastAPI Starter Template (Premium)
+
+The premium version includes everything in the free tier plus:
+
+- ✅ **Priority support** — Get direct help when you're stuck
+- ✅ **Lifetime updates** — All future improvements, free forever
+- ✅ **Example configurations** — Production-ready Docker setups, Nginx reverse proxy configs, CI/CD pipeline examples, and multi-environment .env templates
+
+[🛒 Buy on Gumroad →](https://gum.co/fastapi-starter-template)
